@@ -14,8 +14,8 @@ var TypingIndicator = (() => {
 			authors: [{name: "The Great SauD Plp", github_username: "The Great SauD Plp", twitter_username: "HarmfullAngell", discord_id: "696471269662654535"}],
 			description: "توريك ثلاث نقاط جمب الروم اذا كان فيه احد يكتب",
 			version: "1.0.0",
-			github: "https://github.com/l0c4lh057/BetterDiscordStuff/blob/master/Plugins/TypingIndicator/",
-			github_raw: "https://raw.githubusercontent.com/l0c4lh057/BetterDiscordStuff/master/Plugins/TypingIndicator/TypingIndicator.plugin.js"
+			github: "https://github.com/TheGreatSauD/TypingRoom/edit/master/.gitignore",
+			github_raw: "https://raw.githubusercontent.com/TheGreatSauD/TypingRoom/master/.gitignore"
 		},
 		defaultConfig: [
 			{
